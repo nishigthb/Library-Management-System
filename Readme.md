@@ -1,10 +1,14 @@
-Library Management System 
+# Library Management System 
 
 The project has two interfaces.i.e,Librarian and Students .
 Both the users has to  login with the proper credentials so that they can be given access to the system . 
 The librarian interface provides functions to  book query .The system contains  database of the books, students, admin . 
 The students interface has facility to issue and search the book .Based on their action fine for the  returned book is calculated.
 
+### Requirements
+You will need Xampp software to run this webapp and you can download Xampp from [this link!](https://www.apachefriends.org/index.html)
+
+Once you have download Xampp you need to start the Apache and MySQL services and then continue the following steps.
 
 
 Steps to run the file 
